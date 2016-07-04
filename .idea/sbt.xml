@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="linkedExternalProjectsSettings">
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="jdk" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/project" />
+            <option value="$PROJECT_DIR$/yalignment" />
+            <option value="$PROJECT_DIR$/yalignment/project" />
+            <option value="$PROJECT_DIR$/ycat-container" />
+            <option value="$PROJECT_DIR$/ycat-container/project" />
+            <option value="$PROJECT_DIR$/ycommon" />
+            <option value="$PROJECT_DIR$/ycommon/project" />
+            <option value="$PROJECT_DIR$/ykmer" />
+            <option value="$PROJECT_DIR$/ykmer/project" />
+            <option value="$PROJECT_DIR$/ytrie" />
+            <option value="$PROJECT_DIR$/ytrie/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="0.13.11" />
+        <option name="useAutoImport" value="true" />
+        <option name="useOurOwnAutoImport" value="true" />
+      </SbtProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/yalignment.iml" filepath="$PROJECT_DIR$/.idea/modules/yalignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/yalignment-build.iml" filepath="$PROJECT_DIR$/.idea/modules/yalignment-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ycat.iml" filepath="$PROJECT_DIR$/.idea/modules/ycat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ycat-build.iml" filepath="$PROJECT_DIR$/.idea/modules/ycat-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ycat-container.iml" filepath="$PROJECT_DIR$/.idea/modules/ycat-container.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ycat-container-build.iml" filepath="$PROJECT_DIR$/.idea/modules/ycat-container-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ycommon.iml" filepath="$PROJECT_DIR$/.idea/modules/ycommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ycommon-build.iml" filepath="$PROJECT_DIR$/.idea/modules/ycommon-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ykmer.iml" filepath="$PROJECT_DIR$/.idea/modules/ykmer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ykmer-build.iml" filepath="$PROJECT_DIR$/.idea/modules/ykmer-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ytrie.iml" filepath="$PROJECT_DIR$/.idea/modules/ytrie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ytrie-build.iml" filepath="$PROJECT_DIR$/.idea/modules/ytrie-build.iml" />
+    </modules>
+  </component>
+</project>
